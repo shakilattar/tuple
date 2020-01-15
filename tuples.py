@@ -1,4 +1,4 @@
-def function6():
+def tuplefunc():
     numbers = (10, 20, 30, 40, 50)
     
     for index in range(len(numbers)):
