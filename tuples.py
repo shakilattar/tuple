@@ -5,4 +5,4 @@ def tuplefunc():
         print(f"value at {index} th position = {numbers[index]}")
 
 
-function6()
+tuplefunc()
